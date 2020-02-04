@@ -12,7 +12,7 @@ namespace Trial_Two
         static void Main(string[] args)
         {
 
-            int TotalClothingCost = 0;
+            int TotalClothingCost = "0";
 
         Shirt:
             Console.WriteLine("Hello and Welcome to Star Clothing. We have various items such as: Shirts, Jeans, Golfers as well as Formal Pants!");
